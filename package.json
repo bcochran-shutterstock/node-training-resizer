@@ -1,0 +1,15 @@
+{
+  "name": "node-training-resizer",
+  "version": "0.0.1",
+  "description": "split module out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bcochran@shutterstock.com",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.6.2",
+    "gm": "^1.14.2"
+  }
+}
